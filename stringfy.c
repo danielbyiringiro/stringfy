@@ -17,8 +17,3 @@ int len(string word)
     return i;
 }
 
-int main(void)
-{
-    string name = "Daniel";
-    printf("The length of word %s is %i\n", name, len(name));
-}
