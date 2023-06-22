@@ -1,3 +1,3 @@
 # stringfy
 
-## A C file to manipulate strings
+## A C file for manipulating strings
