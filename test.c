@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "stringfy.h"
 
-typedef char *string;
 int main(void)
 {
     string word1 = "Daniel";
